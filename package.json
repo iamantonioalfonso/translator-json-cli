@@ -3,7 +3,7 @@
   "displayName": "Translator JSON from CLI",
   "description": "Automatically translates JSON language files to other languages using Google Translate",
   "publisher": "iamantonioalfonso",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "license": "MIT",
   "bin": {
     "translator": "out/translator.js"
